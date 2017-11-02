@@ -1,2 +1,0 @@
-# JavaBeginner
-JavaBeginner
