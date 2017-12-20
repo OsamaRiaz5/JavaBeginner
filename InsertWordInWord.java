@@ -1,6 +1,7 @@
 /*
  * Program that insert word in the middle of the another string.
  */
+
 public class InsertWordInWord {
 	public static void main(String[] args) {
 		String str = "Python 3.0";
