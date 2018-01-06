@@ -24,5 +24,8 @@ public class LargestElementArray {
 			}
 		}
 		System.out.println("Max value: " + max);
+		
+		//IMPORTANT MATH.MAX
+		System.out.println(Math.max(array[0], array[n - 1]));
 	}
 }
