@@ -45,14 +45,5 @@ public class TwentyAppearsThreeTimesInArray {
 		} else {
 			System.out.println("Number 20's are not next to each other in an array");
 		}
-		
-
-		
-		
-		
-		
-		
-		
-		
 	}
 }
